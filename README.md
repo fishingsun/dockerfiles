@@ -1,2 +1,2 @@
 # dockerfiles
-Dockerfile(s) for my daily-use apps
+Dockerfile(s) for building my daily-use apps
